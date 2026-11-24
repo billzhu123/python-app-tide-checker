@@ -1,0 +1,4 @@
+# python-app-tide-checker uses only Python standard library modules:
+#   urllib, json, datetime, sys
+# No third-party packages are required.
+# Requires Python 3.9+
